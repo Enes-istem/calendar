@@ -174,9 +174,9 @@
   display: none;
 }
 
-.schedule-drag-drop.e-schedule .template-wrap .specialist-image.alice {
+/* .schedule-drag-drop.e-schedule .template-wrap .specialist-image.alice {
   background-image: url('https://ej2.syncfusion.com/react/demos/src/schedule/images/alice.png');
-}
+} */
 
 .schedule-drag-drop.e-schedule .template-wrap .specialist-image.robert {
   background-image: url('https://ej2.syncfusion.com/react/demos/src/schedule/images/robert.png');
